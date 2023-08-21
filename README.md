@@ -1,1 +1,23 @@
-# Software-QA-Resources
+# Software QA Resources
+
+This repository serves as a comprehensive collection of software quality assurance (QA) resources, carefully curated to empower QA analysts/engineers and software developers in their pursuit of delivering high-quality software products. The resources included in this repository are designed to enhance testing methodologies, promote a quality-oriented mindset, and provide practical frameworks for effective software QA practices.
+
+# Usage
+
+Feel free to explore the resources provided in this repository. Each resource is designed to improve your understanding and implementation of software QA practices. 
+
+# Contributions
+
+Contributions to this repository are welcome! If you have any additional software QA resources you want to provide, please feel free to submit a pull request. Together, we can build a comprehensive collection of resources to enhance software quality assurance practices.
+
+# License
+
+This repository is licensed under the GPL 3.0 License - see the [LICENSE](LICENSE) file for details. Feel free to use, modify, and distribute the resources in this repository, as long as the original attribution is maintained.
+
+# Contact
+
+Shubham Sharma - [My LinkedIn](https://www.linkedin.com/in/sharma-it/) - shubhamsharma.emails@gmail.com.
+
+# Acknowledgments
+
+I would like to express my gratitude to the software QA community for their valuable insights and contributions, which have helped shape the resources included in this repository. Your dedication to quality is greatly appreciated.
