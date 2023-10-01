@@ -2,6 +2,14 @@
 
 This repository serves as a comprehensive collection of software quality assurance (QA) resources, carefully curated to empower QA analysts/engineers and software developers in their pursuit of delivering high-quality software products. The resources included in this repository are designed to enhance testing methodologies, promote a quality-oriented mindset, and provide practical frameworks for effective software QA practices.
 
+# Table of Contents
+
+1. [Usage](#usage)
+2. [Contributions](#contributions)
+3. [License](#license)
+4. [Contact](#contact)
+5. [Acknowledgments](#acknowledgments)
+
 ## Usage
 
 Feel free to explore the resources provided in this repository. Each resource is designed to improve your understanding and implementation of software QA practices. 
