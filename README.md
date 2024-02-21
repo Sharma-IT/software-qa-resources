@@ -12,11 +12,13 @@ This repository serves as a comprehensive collection of software quality assuran
 
 ## Usage
 
-Feel free to explore the resources provided in this repository. Each resource is designed to improve your understanding and implementation of software QA practices. 
+Feel free to explore the resources provided in this repository. Each resource is designed to improve your understanding and implementation of software QA practices, along with some being actual tools and scripts.
 
 ## Contributions
 
 Contributions to this repository are welcome! If you have any additional software QA resources you want to provide, please feel free to submit a pull request. Together, we can build a comprehensive collection of resources to enhance software quality assurance practices.
+
+Make sure to also check out the 'Discussions' section too. Notably, one discussion around the Honeycomb Test Model has been created, if you're interested in learning more about the Honeycomb Test Model, please go have a look.
 
 ## License
 
