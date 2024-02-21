@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# Check https://github.com/Sharma-IT/Software-QA-Resources/commit/403f7d44eac5df661b10538ee6a1966e712381b7 for more information, such as key features, usage, etc.
+
 # Set the exit code for the script
 set -e
 
