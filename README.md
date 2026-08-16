@@ -5,14 +5,19 @@ This repository serves as a comprehensive collection of software quality assuran
 # Table of Contents
 
 1. [Usage](#usage)
-2. [Contributions](#contributions)
-3. [License](#license)
-4. [Contact](#contact)
-5. [Acknowledgments](#acknowledgments)
+2. [External QA Tools](#external-qa-tools)
+3. [Contributions](#contributions)
+4. [License](#license)
+5. [Contact](#contact)
+6. [Acknowledgments](#acknowledgments)
 
 ## Usage
 
 Feel free to explore the resources provided in this repository. Each resource is designed to improve your understanding and implementation of software QA practices, along with some being actual tools and scripts.
+
+## External QA Tools
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available QA agent for natural-language web and mobile tests, with persistent test memory, a CLI, and an MCP server.
 
 ## Contributions
 
